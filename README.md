@@ -6,7 +6,7 @@ Allows users to **add notes** and **view saved notes** stored in a text file.
 
 ---
 
-## 🛠 Features
+## Features
 - Add a note (saved to `notes.txt`)
 - View all saved notes
 - Persistent storage using file handling
